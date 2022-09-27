@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madcapmarsupial
-- 👀 I’m primarily interested in ... system building for busniess use, app-dev, and education
+- 👀 I’m primarily interested in ... business systems, app-dev, and education
 - 🌱 I’m studying ... Ruby On Rails, Sql, Postgres, and Git (through App Academy's open curriculum)
 - 💞️ I’m looking to collaborate on ... portfolio projects, mobile apps, websites, anything to build experience working with a team!
 - 🐿️ Current Distractions
