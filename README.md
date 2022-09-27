@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Madcapmarsupial
-- 👀 I’m interested in ... system building, game-dev, app-dev
-- 🌱 I’m currently learning ... Ruby, Javascript, and Git
-- 💞️ I’m looking to collaborate on ... portfolio projects, games, apps, website, anything to build experience working with a team!
+- 👀 I’m primarily interested in ... system building for busniess use, app-dev, and education
+- 🌱 I’m studying ... Ruby On Rails, Sql, Postgres, and Git (through App Academy's open curriculum)
+- 💞️ I’m looking to collaborate on ... portfolio projects, mobile apps, websites, anything to build experience working with a team!
+- 🐿️ Current Distractions
+  I love playing guitar, bass, and practicing jiu-jitsu!
+  My side project at the moment is a word game web app.
 - 📫 How to reach me ... madcapmarsupial@gmail.com
 
 <!---
