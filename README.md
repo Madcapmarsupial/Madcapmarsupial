@@ -5,7 +5,7 @@
 - 🐿️ Current Distractions ...
   * I love playing guitar, bass, and practicing jiu-jitsu!
   *  My side project at the moment is a word game web app.
-  *  A raild web app powered by chatgpt for generating dnd content!
+  *  A rails web app powered by chatgpt for generating dnd content!
 - 📫 How to reach me ... madcapmarsupial@gmail.com
 
 <!---
