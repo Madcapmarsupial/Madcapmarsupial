@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ... portfolio projects, mobile apps, websites, anything to build experience working with a team!
 - 🐿️ Current Distractions ...
   * I love playing guitar, bass, and practicing jiu-jitsu!
-  *  My side project at the moment is a word game web app.
-  *  A rails web app powered by chatgpt for generating dnd content!
+  *  My side project at the moment is a ai powered (llama) newspaper.
 - 📫 How to reach me ... madcapmarsupial@gmail.com
 
 <!---
